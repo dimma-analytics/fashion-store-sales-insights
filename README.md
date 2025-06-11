@@ -46,3 +46,37 @@ All cleaning was done in Google Sheets. Key steps included:
 9. Replaced all formula columns with their pasted values  
 
 Screenshots of the process are available in the `screenshots` folder.
+
+---
+
+## 🖼️ Key Screenshots
+
+### 1. Data Cleaning Process
+- Using the `=PROPER()` function to clean gender column  
+  ![Using PROPER formula](screenshots/GenderColumn_After_Cleanup.png)
+
+- Final cleaned version after removing blanks and duplicates  
+  ![Cleaned data](screenshots/02_Data_cleaning_after.png)
+
+- Final merged dataset  
+  ![Merged dataset](screenshots/SalesSheet_age_gender_merged_cleaned.png)
+
+---
+
+### 2. Pivot Table Insights
+
+- Revenue by Product Category  
+  ![Pivot: Revenue by Product](screenshots/Revenue_by_product_category_PivotTable.png)
+
+- Revenue by Region  
+  ![Pivot: Revenue by Region](screenshots/Revenue_by_Region_PivotTable.png)
+
+- Revenue by Day of the Week  
+  ![Pivot: Revenue by Day](screenshots/Sales_by_day_of_week_PivotTable.png)
+
+- Revenue by Age Group  
+  ![Pivot: Revenue by Age Group](screenshots/age_group_revenue_PivotTable.png)
+
+- Revenue by Gender  
+  ![Pivot: Revenue by Gender](screenshots/Revenue_by_gender.png)
+
