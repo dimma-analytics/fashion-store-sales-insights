@@ -96,5 +96,4 @@ As a beginner, I feel more confident handling real-world datasets and presenting
 
 ## Dataset
 
-You can download the cleaned dataset used in this project [here](https://github.com/dimma-analytics/fashion-store-sales-insights/blob/main/datasets/Fashion_Ecommerce_sales_data%20(1).xlsx).
-
+You can download the cleaned dataset used in this project [here](datasets/Fashion_Ecommerce_sales_data_(1).xlsx).
