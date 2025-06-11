@@ -56,7 +56,7 @@ Screenshots of the process are available in the `screenshots` folder.
   ![Using PROPER formula](screenshots/GenderColumn_After_Cleanup.png)
 
 - Final cleaned version after removing blanks and duplicates  
-  ![Cleaned data](screenshots/02_Data cleaning_after.png)
+  ![Cleaned data](screenshots/02_Data_cleaning_after.png)
 
 - Final merged dataset  
   ![Merged dataset](screenshots/SalesSheet_age_gender_merged_cleaned.png)
