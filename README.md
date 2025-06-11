@@ -56,7 +56,7 @@ Screenshots of the process are available in the `screenshots` folder.
   ![Using PROPER formula](screenshots/GenderColumn_After_Cleanup.png)
 
 - Final cleaned version after removing blanks and duplicates  
-  ![Cleaned data](screenshots/02_Data_cleaning_after.png)
+  ![Cleaned data](screenshots/02_Data cleaning_after.png)
 
 - Final merged dataset  
   ![Merged dataset](screenshots/SalesSheet_age_gender_merged_cleaned.png)
@@ -72,7 +72,7 @@ Screenshots of the process are available in the `screenshots` folder.
   ![Pivot: Revenue by Region](screenshots/Revenue_by_Region_PivotTable.png)
 
 - Revenue by Day of the Week  
-  ![Pivot: Revenue by Day](screenshots/Sales_by_day_of_week_PivotTable.png)
+  ![Pivot: Revenue by Day](screenshots/Sales_by_day_of_week_pivotTable.png)
 
 - Revenue by Age Group  
   ![Pivot: Revenue by Age Group](screenshots/age_group_revenue_PivotTable.png)
