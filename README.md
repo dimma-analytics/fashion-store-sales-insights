@@ -93,3 +93,8 @@ This project helped me practice essential skills in spreadsheet-based data analy
 - How to use GitHub to organize and present a portfolio project
 
 As a beginner, I feel more confident handling real-world datasets and presenting my work in a professional way. This project also taught me the value of screenshots and clear storytelling — something I’ll apply to future case studies!
+
+## Dataset
+
+You can download the cleaned dataset used in this project [here](datasets/Fashion_Ecommerce_sales_data(1).xlsx).
+
