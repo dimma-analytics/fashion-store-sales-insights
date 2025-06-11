@@ -80,3 +80,16 @@ Screenshots of the process are available in the `screenshots` folder.
 - Revenue by Gender  
   ![Pivot: Revenue by Gender](screenshots/Revenue_by_gender.png)
 
+---
+
+## 💡 Reflections & Lessons Learned
+
+This project helped me practice essential skills in spreadsheet-based data analysis. Here's what I learned:
+
+- How to clean messy data using filters, formulas like `=PROPER()`, and the data cleanup tool in Google Sheets
+- How to use `VLOOKUP()` to merge datasets from different sheets
+- How to use pivot tables to uncover insights and answer business questions
+- The importance of structuring projects clearly and documenting my process
+- How to use GitHub to organize and present a portfolio project
+
+As a beginner, I feel more confident handling real-world datasets and presenting my work in a professional way. This project also taught me the value of screenshots and clear storytelling — something I’ll apply to future case studies!
